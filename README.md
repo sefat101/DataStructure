@@ -21,5 +21,5 @@ This repository serves as a collection of code snippets and implementations for 
 
 - Specify the programming language used in this repository | C++
 
-##ShoutOut 
-to #NesoAcademy from where i learned the basics of Data Structure. 
+## ShoutOut 
+# NesoAcademy from where i learned the basics of Data Structure. 
